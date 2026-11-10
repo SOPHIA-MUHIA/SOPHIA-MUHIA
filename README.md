@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![snake](https://raw.githubusercontent.com/SOPHIA-MUHIA/SOPHIA-MUHIA/output/github-contribution-grid-snake-dark.svg)
 <!--
 **SOPHIA-MUHIA/SOPHIA-MUHIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
